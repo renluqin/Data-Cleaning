@@ -1,5 +1,5 @@
 # Data-Cleaning  
 
-For the protection of the source code, only the code logic screenshots and the results after data cleaning are shown in this repo.   
-Please contact celine.renluqin@gmail.com for source code.
+For the protection of the source code authority, only the code screenshots and the results are shown in this repo.   
+If this does not meet your needs, please contact celine.renluqin@gmail.com for the source code or a live coding.
 
